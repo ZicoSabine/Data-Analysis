@@ -26,4 +26,12 @@ Will continue to add more here as I find more interesting datasets to play with.
     - The dataset came from a professor of mine and I have permission to add this here (ehe).
    
   - ## Win Anlaysis + Web Scraping Analysis 🍷:
-    - A simple classification machine learning problem for the first dataset containing 
+    - A simple classification machine learning problem for the first dataset containing components of each wine bottle. The use of webscraping combined with classification machine learning enables the identification of wine types.
+    - I do remmeber accurately determining the wine types here but I can't seem to find the comment for it, gomen.
+   
+  - Online Retail EDA 👚:
+    - Given how extensive the dataset is, I went a bit deeper with providing business and sales analytics than a simple EDA.
+    - The store is thriving with most of its customer base are repeat customers, with these customers mostly focusing on purchasing light-based home decor (Tea lights, lamps, etc.)
+    - RFM method reveals that most of the customers for this store are loyal and great buyers, however, it is greatly adviced to take care of these customers as most of them tend to not commit to the store.
+   
+
