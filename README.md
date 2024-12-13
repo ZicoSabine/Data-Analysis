@@ -34,4 +34,11 @@ Will continue to add more here as I find more interesting datasets to play with.
     - The store is thriving with most of its customer base are repeat customers, with these customers mostly focusing on purchasing light-based home decor (Tea lights, lamps, etc.)
     - RFM method reveals that most of the customers for this store are loyal and great buyers, however, it is greatly adviced to take care of these customers as most of them tend to not commit to the store.
    
+  - ## World Bank Analysis 🌍:
+    - One of my earlier works, mostly practicing on using the Dash package and playing around with graphs.
+
+  - ## PSA Analysis 🤵:
+    - Another earlier work focusing on table manipulation and playing around with melting and pivoting the data.
+    
+   
 
